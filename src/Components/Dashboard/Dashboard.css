@@ -1,0 +1,8 @@
+.dash-container{
+    width: 450px;
+    height: 300px;
+    box-shadow: 2px 2px 7px 2px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
